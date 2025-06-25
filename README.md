@@ -69,8 +69,7 @@ wave-animation/
 
 ## 👨‍💻 개발자
 
-- **이름**: [개발자 이름]
-- **GitHub**: [GitHub 프로필 링크]
+- **이름**: [Kwon soonchul]
 
 ---
 
